@@ -1,0 +1,26 @@
+﻿  painter.cpp
+painter.cpp(23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+painter.cpp(70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(71): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(72): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(73): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(80): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(81): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(82): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(89): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(90): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(99): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+painter.cpp(112): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+painter.cpp(120): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(137): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+painter.cpp(154): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\Visual Studio 2015\Projects\OpenGLConsuleApplication1\Release\OpenGLConsuleApplication1.exe
